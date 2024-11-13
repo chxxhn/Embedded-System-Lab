@@ -49,6 +49,7 @@ volatile unsigned int *RCC_APB2ENR = (unsigned int *)0x40021018;
 volatile unsigned int *GPIOC_ODR = (unsigned int *)0x4001100C;
 *GPIOC_ODR |= 0x00000001; // LED ON
 *GPIOC_ODR &= ~0x00000001; // LED OFF
+```
 
 ### 4. 실험 과정
 1. 하드웨어 연결: JTAG과 5V 전원을 연결하여 보드가 올바르게 작동하도록 설정합니다.
