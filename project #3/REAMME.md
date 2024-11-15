@@ -1,4 +1,4 @@
-# Project #3 - Clock Tree 및 UART 통신을 이용한 프로젝트
+# Project #3 - Clock Tree 및 UART 통신
 이 프로젝트는 STM32F107 마이크로컨트롤러에서 Clock Tree와 UART 통신을 이해하고 설정하는 실습입니다. 사용자 정의 클럭을 설정하고, UART 통신을 통해 PC와의 연결을 실현하며, 설정된 System Clock을 오실로스코프로 확인하는 방법을 학습합니다.
 
 ---
