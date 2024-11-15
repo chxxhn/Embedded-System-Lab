@@ -1,4 +1,4 @@
-# Interrupt 방식의 GPIO 제어 및 UART 통신 (STM32F107)
+# Project #4 - Interrupt 방식의 GPIO 제어 및 UART 통신 
 
 이 프로젝트는 STM32F107 마이크로컨트롤러에서 Interrupt 방식을 이용한 GPIO 제어와 UART 통신을 실습하는 내용을 담고 있습니다. 버튼과 UART 통신을 통해 인터럽트를 발생시키고, 해당 인터럽트의 우선순위를 설정하여 다양한 동작을 제어합니다.
 
