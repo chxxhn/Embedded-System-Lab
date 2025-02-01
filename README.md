@@ -13,7 +13,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - 버튼 입력을 통해 LED ON/OFF 제어
 - 직접 메모리 접근 방식으로 GPIO 레지스터 조작
 
-📂 **코드 경로**: [`Project1_GPIO_Control/`](./Project%20%23#1)
+📂 **코드 경로**: [`Project1_GPIO_Control/`](./Project%20%231)
 
 ---
 
