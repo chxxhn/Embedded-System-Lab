@@ -13,7 +13,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - 버튼 입력을 통해 LED ON/OFF 제어
 - 직접 메모리 접근 방식으로 GPIO 레지스터 조작
 
-📂 **코드 경로**: [`Project1_GPIO_Control/`](./project%20%231)
+📂 **자세한 내용 보기**: [`Project1_GPIO_Control/`](./project%20%231)
 
 ---
 
@@ -22,7 +22,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - GPIO 핀을 이용해 릴레이 스위칭
 - 일정 시간 동안 릴레이 ON/OFF 구현
 
-📂 **코드 경로**: [`Project2_Relay_Polling/`](./Project2_Relay_Polling)
+📂 **자세한 내용 보기**: [`Project2_Relay_Polling/`](./project%20%232)
 
 ---
 
@@ -31,7 +31,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - System Clock 설정 및 MCO 출력
 - UART를 이용해 PC와 통신하여 데이터 송수신
 
-📂 **코드 경로**: [`Project3_ClockTree_UART/`](./Project3_ClockTree_UART)
+📂 **자세한 내용 보기**: [`Project3_ClockTree_UART/`](./project%20%233)
 
 ---
 
@@ -40,7 +40,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - GPIO 인터럽트(EXTI)를 활용하여 버튼을 누를 때마다 LED 상태 변경
 - UART를 통한 데이터 전송 및 이벤트 처리
 
-📂 **코드 경로**: [`Project4_GPIO_Interrupt_UART/`](./Project4_GPIO_Interrupt_UART)
+📂 **자세한 내용 보기**: [`Project4_GPIO_Interrupt_UART/`](./project%20%234)
 
 ---
 
@@ -49,7 +49,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - UART를 이용한 Bluetooth 데이터 송수신
 - 스마트폰 앱과 연동하여 데이터 송수신
 
-📂 **코드 경로**: [`Project5_Bluetooth_UART/`](./Project5_Bluetooth_UART)
+📂 **자세한 내용 보기**: [`Project5_Bluetooth_UART/`](./project%20%235)
 
 ---
 
@@ -58,7 +58,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - ADC 값을 TFT-LCD에 실시간으로 출력
 - 터치 입력을 활용하여 LCD UI 제어
 
-📂 **코드 경로**: [`Project6_LCD_ADC/`](./Project6_LCD_ADC)
+📂 **자세한 내용 보기**: [`Project6_LCD_ADC/`](./project%20%236)
 
 ---
 
@@ -68,7 +68,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - TIM3 PWM을 이용한 서보모터 각도 변경
 - TFT-LCD 터치 버튼을 통해 모터 제어
 
-📂 **코드 경로**: [`Project7_Timer_PWM_Servo/`](./Project7_Timer_PWM_Servo)
+📂 **자세한 내용 보기**: [`Project7_Timer_PWM_Servo/`](./project%20%237)
 
 ---
 
@@ -78,7 +78,7 @@ GPIO, UART, Timer, PWM, ADC, DMA, Bluetooth 등을 실습하며, **임베디드 
 - 조도 센서 값을 읽어 LCD 배경색을 실시간 변경
 - 인터럽트 없이 DMA를 통해 빠르고 효율적인 데이터 전송
 
-📂 **코드 경로**: [`Project8_DMA_ADC_LCD/`](./Project8_DMA_ADC_LCD)
+📂 **자세한 내용 보기**: [`Project8_DMA_ADC_LCD/`](./project%20%238)
 
 ---
 
